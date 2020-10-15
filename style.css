@@ -1,0 +1,77 @@
+
+
+
+div#content{
+	background-color: black;
+}
+
+
+
+div#content div{
+    display: inline-block;
+    width: 50%;
+
+}div#content div h1, p iframe{
+	margin:35px;
+}
+div#content div.leftbox{
+	background-color: green;
+	vertical-align: top;
+}
+
+div#content div.rightbox{
+	background-color: yellow;
+
+}
+div#content div.annonce{
+	background-color: #777;
+	width: 100%;
+	margin: 8px;
+}
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none; 
+}
+
+nav.menu-nav ul li.btn{
+	color: white;
+	background-color: red;
+	text-decoration: none;
+	padding: 10px;
+
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+	transition: 0.5s all;
+}
+ footer{
+ 	background-color: orange;
+ }
+
+div.annonce img{
+	border-radius:50%; 
+}
+
+
+
+
+
+/*.hello{
+	color: #ffff;
+	background-color: red;
+}
+
+.vivacss{
+	color: orange;
+	font-weight: bold;
+
+}
+
+body{
+	background-color: yellow;
+}  
+
+.headline{
+	font-size: 50px; 
